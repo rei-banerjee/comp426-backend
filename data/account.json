@@ -1,2 +1,106 @@
 {
+  "users": {
+    "asdf@gmail": {
+      "com": {
+        "passwordHash": "$2b$10$RCVidnCGKaLXqPbU.XvB4O90MQ6q1fGx3HDVoGI32gxc.9qyA61gG",
+        "data": {
+          "fullName": "lkjasdf"
+        }
+      }
+    },
+    "al@gmail": {
+      "com": {
+        "passwordHash": "$2b$10$5U.YbWynPGbPA.6NTHRUVOcRAhLVr0rdL2FrJld7HvtrVB7SkEXEC",
+        "data": {
+          "fullName": "John SMith"
+        }
+      }
+    },
+    "bro@gamil": {
+      "com": {
+        "passwordHash": "$2b$10$Dw6p3A1ctv.mPuwQiROJSe0XjUW7PRAorvpuYYQSq9bcTX.RsosUC",
+        "data": {
+          "fullName": "Yee"
+        }
+      }
+    },
+    "michaelisgay69": {
+      "passwordHash": "$2b$10$frZFPAZPZNbLC6uB7.7LXuNdlLUbTCto55Q4QyK/M83ec1JjGB7bm",
+      "data": {
+        "fullName": "Michael Vollbracht"
+      }
+    },
+    "poop": {
+      "passwordHash": "$2b$10$VhEvUCEmcVdIDZf9fJuVKO/lu2OgIslQNNIU6Qs8PP5rML0ysbdby",
+      "data": {
+        "fullName": "PooPoo Jones"
+      }
+    },
+    "laksddjflaksjdflkajsdf": {
+      "passwordHash": "$2b$10$WGZFUkfPpfhHVSgC6nZKxeI.IQACuU1bZgNRYRXye9UlAQUfKJsBm",
+      "data": {
+        "fullName": "lkajsdoifj"
+      }
+    },
+    "abelincoln20": {
+      "passwordHash": "$2b$10$NHX/Hxm5ZKDTMccVEaDkBOROs7nSpBguJCdeu5Dd0gVlHlWWE7Sfy",
+      "data": {
+        "fullName": "Jimmy Johns"
+      }
+    },
+    "bead": {
+      "passwordHash": "$2b$10$udlK/cU/h27bQp5wLsr71edy9Me/oTLFlLJjxFvRjGA4C4lR3RkyS",
+      "data": {
+        "fullName": "Jimmy Johns"
+      }
+    },
+    "jsmith69": {
+      "passwordHash": "$2b$10$Za/MqfR2CYaHd/gXRwkXU.anVG/V2gbbm.Skj1EruaRUlpOQ4v2ua",
+      "data": {
+        "fullName": "Jimmy Johns"
+      }
+    },
+    "bert": {
+      "passwordHash": "$2b$10$.bvGAly.EOgIjOUQz2rWr.n4UaSLcRoGfGRk0iz3FRbn41qAr03iS",
+      "data": {
+        "fullName": "Jackson Pollack"
+      }
+    },
+    "tractorboi33": {
+      "passwordHash": "$2b$10$PevbyU.2nxNwPfAcIdpu9ear..40DPpNOl0GmgsHHm6oiZmyJEmF.",
+      "data": {
+        "fullName": "John Deere"
+      }
+    },
+    "bruh": {
+      "passwordHash": "$2b$10$95bapXhutoq25hxB/HPpsuz4qrcWg1D2NzowePwYw992bFENa5CW2",
+      "data": {
+        "fullName": "asdf"
+      }
+    },
+    "rei": {
+      "passwordHash": "$2b$10$W1ipIs8bbgSP23HO8eyZcuw4AYY8Jga3GWYb76qwsM4UPh2znKwum",
+      "data": {
+        "fullName": "Rei Banerjee"
+      }
+    },
+    "will": {
+      "passwordHash": "$2b$10$S/7hHVgJzZMmxYu30JSyFeDD9aAqmZDTAtbgGkfqlzh24GRBjbUx2",
+      "data": {
+        "fullName": "Will Perkins"
+      }
+    },
+    "jchrist": {
+      "passwordHash": "$2b$10$Tp2ak8bQjbR1bjft8vUyw.TgLkQ453qC4dKAmDXUIIn4bK7uqP7oK",
+      "data": {
+        "fullName": "Jesus Christ"
+      }
+    },
+    "jdeer": {
+      "passwordHash": "$2b$10$JWGYQsEJ7QHe5NDx51OVfO9/CAauccsH5S7gZjO8ZE9GrACaGQQl2",
+      "data": {
+        "fullName": "John Deer"
+      }
+    }
+  }
 }
